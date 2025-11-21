@@ -12,8 +12,6 @@ Visualization of crop-wise yield trends, regional productivity comparisons, and 
 
 Data-driven insights to support policy planning, market decisions, and resource allocation.
 
-Automated data cleaning and preprocessing using Python for improved data accuracy.
-
 🛠️ Technologies Used
 
 Power BI – Data modeling, dashboard creation, DAX measures, visualizations
@@ -23,8 +21,6 @@ Python
 Pandas – Data cleaning, transformation
 
 NumPy – Numerical operations
-
-Power Query – Additional data shaping and loading
 
 Excel/CSV – Source data formats
 
@@ -49,8 +45,6 @@ Merging & shaping datasets
 Dashboard Development (Power BI):
 
 Built interactive visuals for crop yield trends
-
-Implemented DAX measures for KPIs
 
 Designed user-friendly dashboard layout
 
